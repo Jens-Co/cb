@@ -46,7 +46,7 @@ export default function DownloadComponent({
           target="_blank"
           rel="noopener noreferrer"
         >
-          klik hier
+          Click here
         </a>
       </p>
 
